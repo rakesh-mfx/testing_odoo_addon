@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="hello_demo_1" model="hello.world">
+        <field name="name">Hello, Odoo!</field>
+        <field name="note">This is a demo record created by hello_world module.</field>
+    </record>
+</odoo>
